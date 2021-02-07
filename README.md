@@ -1,4 +1,4 @@
-Personalized theme for wordpress content management system.
+Personalized theme for wordpress content management system.<p>
 ..::installation steps::..
 file path to copy: 
 ..\wp-content\themes\custom
